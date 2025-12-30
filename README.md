@@ -122,3 +122,4 @@ The prediction is based on the following inputs:
 ## ⭐ License
 
 This project is open-source and free to use for **educational purposes**.
+```
