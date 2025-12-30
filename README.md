@@ -62,35 +62,6 @@ The prediction is based on the following inputs:
 
 ---
 
-## 🚀 How to Run Locally
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/medical-insurance-predictor.git
-````
-
-2. **Navigate to the project folder**
-
-   ```bash
-   cd medical-insurance-predictor
-   ```
-
-3. **Install required dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the application**
-
-   ```bash
-   streamlit run app.py
-   ```
-
-5. Open browser and start predicting 🎯
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -122,4 +93,5 @@ The prediction is based on the following inputs:
 ## ⭐ License
 
 This project is open-source and free to use for **educational purposes**.
-```
+
+
